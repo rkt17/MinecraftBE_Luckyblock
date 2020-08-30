@@ -1,0 +1,11 @@
+{
+    "format_version": [ 1, 1, 0 ],
+    "rkt:LuckyBlock": {
+        "textures": {
+            "up": "LuckyBlock_top",
+            "down": "LuckyBlock_bottom",
+            "side": "LuckyBlock_side"
+        },
+        "sound": "glass"
+    }
+}

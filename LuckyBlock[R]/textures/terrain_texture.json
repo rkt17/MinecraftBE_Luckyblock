@@ -1,0 +1,17 @@
+{
+    "resource_pack_name": "vanila",
+    "texture_name": "atlas.terrain",
+    "padding": 8,
+    "num_mip_levels": 4,
+    "texture_data": {
+        "LuckyBlock_top": {
+            "textures": "textures/blocks/rkt/LuckyBlock/top"
+        },
+        "LuckyBlock_bottom": {
+            "textures": "textures/blocks/rkt/LuckyBlock/bottom"
+        },
+        "LuckyBlock_side": {
+            "textures": "textures/blocks/rkt/LuckyBlock/side"
+        }
+    }
+}

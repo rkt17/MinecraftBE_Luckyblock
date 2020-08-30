@@ -1,0 +1,30 @@
+{
+	"format_version": 1,
+	"header": {
+		"name": "LuckyBlock[B]",
+		"uuid": "f8f70b81-1df5-4888-b0ec-3e8e1bb11f3a",
+		"version": [
+			1,
+			0,
+			0
+		],
+		"description": "§l§f2020 §7[§arkt17§c/§aるくと§7]§r",
+		"min_engine_version": [
+			1,
+			2,
+			6
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "dd92a90b-fc1e-4f06-a888-c171b7516162",
+			"version": [
+				1,
+				0,
+				0
+			],
+			"description": "§l§f2020 §7[§arkt17§c/§aるくと§7]§r"
+		}
+	]
+}

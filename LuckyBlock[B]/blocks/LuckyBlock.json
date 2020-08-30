@@ -1,0 +1,19 @@
+{
+  "format_version": "1.16.0",
+  "minecraft:block": {
+    "description": {
+      "identifier": "rkt:LuckyBlock",
+      "is_experimental": false,
+      "register_to_creative_menu": true
+    },
+    "components": {
+      "minecraft:loot": "loot_tables/blocks/rkt/LuckyBlock.json",
+      "minecraft:destroy_time": 0.5,
+      "minecraft:explosion_resistance": 1,
+      "minecraft:friction": 1,
+      "minecraft:map_color": "#ffff00",
+      "minecraft:block_light_absorption": 0,
+      "minecraft:block_light_emission": 0
+    }
+  }
+}
