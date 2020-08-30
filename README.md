@@ -1,0 +1,2 @@
+# MinecraftBE_Luckyblock
+loot_tableを使ったラッキーブロックです。loot_tableを使っているのでコマンドなどは一切使用していません。 
